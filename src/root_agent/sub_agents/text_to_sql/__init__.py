@@ -1,1 +1,1 @@
-from . import agent
+from .agent import text_to_sql

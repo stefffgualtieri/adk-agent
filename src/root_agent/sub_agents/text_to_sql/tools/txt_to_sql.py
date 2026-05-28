@@ -1,2 +1,3 @@
-def text_to_sql ():
+def text_to_sql() -> None:
+    """    """
     return
